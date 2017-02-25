@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "build": "webpackn"
+    "build": "webpack"
   },
   "author": "Weiming Zhai <wmzhai@gmail.com>",
   "license": "MIT",
