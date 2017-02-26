@@ -22,3 +22,7 @@
 * 查看文件变动，自动重新最小编译
 * 修改webpack.config.js后需要重启服务，因为这个文件不会被监听
 * 只用于develop，不要在production使用
+
+## Codesplitting With React-Router
+
+* 有效地将程序分成多块
