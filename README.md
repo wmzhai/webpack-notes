@@ -15,3 +15,9 @@
 
 * 将js分拆成多个，按需加载，提高效率
 * Vender Caching: 打包成 vender.js 和 bundle.js，其中vender.js放置第三方包等很少变化的包，进而提升重复加载的效率
+
+## webpack-dev-server
+
+* 提供localhost的服务端访问
+* 查看文件变动，自动重新最小编译
+* 修改webpack.config.js后需要重启服务，因为这个文件不会被监听
